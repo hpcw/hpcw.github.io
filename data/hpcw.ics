@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:high.performance.container@gmail.com
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+DTSTART:20200616T150000Z
+DTEND:20200616T170000Z
+DTSTAMP:20200605T091614Z
+UID:42ddr2aultj7mk0d2vkagg2eak@google.com
+CREATED:20200605T084900Z
+DESCRIPTION:Stream of the Runtime Segment of the HPCW20 Workshop. More deta
+ ils and the Youtube Stream link can be found here:&nbsp\;<a href="https://h
+ pcw.github.io/">https://hpcw.github.io/</a>
+LAST-MODIFIED:20200605T091532Z
+LOCATION:Youtube
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HPCW20 Stream: Runtime Segment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200616T170000Z
+DTEND:20200616T190000Z
+DTSTAMP:20200605T091614Z
+UID:4u8nammsko78ue8ntef1ugh2op@google.com
+CREATED:20200605T084927Z
+DESCRIPTION:Stream of the Build Segment of the HPCW20 Workshop. More detail
+ s and the Youtube Stream link can be found here: <a href="https://hpcw.gith
+ ub.io/">https://hpcw.github.io/</a>
+LAST-MODIFIED:20200605T091539Z
+LOCATION:Youtube\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HPCW20 Stream: Build Segment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200617T150000Z
+DTEND:20200617T170000Z
+DTSTAMP:20200605T091614Z
+UID:6jo80oeds3a46lmms80t6uk4n1@google.com
+CREATED:20200605T085010Z
+DESCRIPTION:Stream of the Distribute Segment of the HPCW20 Workshop. More a
+ nd the Youtube Stream link details can be found here: <a href="https://hpcw
+ .github.io/">https://hpcw.github.io/</a>
+LAST-MODIFIED:20200605T091547Z
+LOCATION:Youtube\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HPCW20 Stream: Distribute Segment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200617T170000Z
+DTEND:20200617T190000Z
+DTSTAMP:20200605T091614Z
+UID:7kvbrk7an7cvf8510darj6vipa@google.com
+CREATED:20200605T084955Z
+DESCRIPTION:Stream of the Orchestrate/Schedule Segment of the HPCW20 Worksh
+ op. More details and the Youtube Stream link can be found here: <a href="ht
+ tps://hpcw.github.io/">https://hpcw.github.io/</a>
+LAST-MODIFIED:20200605T091555Z
+LOCATION:Youtube\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HPCW20 Stream: Orchestrate/Schedule Segment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200618T150000Z
+DTEND:20200618T170000Z
+DTSTAMP:20200605T091614Z
+UID:7a8hsnlrea84ru5f69p52jlnsq@google.com
+CREATED:20200605T085031Z
+DESCRIPTION:Stream of the HPC Specifics Segment of the HPCW20 Workshop. Mor
+ e details and the Youtube Stream link can be found here: <a href="https://h
+ pcw.github.io/">https://hpcw.github.io/</a>
+LAST-MODIFIED:20200605T091600Z
+LOCATION:Youtube\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HPCW20 Stream: HPC Specifics Segment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200618T170000Z
+DTEND:20200618T190000Z
+DTSTAMP:20200605T091614Z
+UID:2q7jv69m17i9e6eurirq0eudeb@google.com
+CREATED:20200605T085054Z
+DESCRIPTION:Stream of the Use-case/Outlook Segment of the HPCW20 Workshop. 
+ More details and the Youtube Stream link can be found here: <a href="https:
+ //hpcw.github.io/">https://hpcw.github.io/</a>
+LAST-MODIFIED:20200605T091605Z
+LOCATION:Youtube\, 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HPCW20 Stream: Use-case/Outlook Segment
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

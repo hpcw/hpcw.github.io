@@ -23,14 +23,23 @@ As tools we are going to **stream the video** (not 100% settled yet but most lik
 
 **The workshop will be held as live streams on the following dates.**
 
-| Segment | Date | CEST | ET | PT |
-|:-------:|:----:|:----:|:--:|:--:|
-| Runtime | 6/16 |  5PM | 11AM | 8AM |
-| Build | 6/16 |  7PM | 13AM | 10AM |
-| Distribute | 6/17 |  5PM | 11AM | 8AM |
-| Orchestrate/Schedule | 6/17 |  7PM | 13AM | 10AM |
-| HPC Specific | 6/18 |  5PM | 11AM | 8AM |
-| Use-cases / Outlook | 6/18 |  7PM | 13AM | 10AM |
+<table><tr>
+    <td><img src="/pics/240px-Apple_Calendar_Icon.png"></td>
+    <td>To block time in your calendar please import this <a href="/data/hpcw.ics">ics file</a></td>
+</tr></table>
+
+| Segment | Date | CEST | ET | PT | Youtube Stream Link |
+|:-------:|:----:|:----:|:--:|:--:|:-----------:|
+| Runtime | 6/16 |  5PM | 11AM | 8AM | TBA |
+| Build | 6/16 |  7PM | 13AM | 10AM | TBA |
+| Distribute | 6/17 |  5PM | 11AM | 8AM | TBA |
+| Orchestrate/Schedule | 6/17 |  7PM | 13AM | 10AM | TBA |
+| HPC Specific | 6/18 |  5PM | 11AM | 8AM | TBA |
+| Use-cases / Outlook | 6/18 |  7PM | 13AM | 10AM | TBA |
+
+### On-Demand
+
+The streamed videos are going to be released on Youtube at the day of the virtual workshop event (6/25).
 
 ## Agenda
 
