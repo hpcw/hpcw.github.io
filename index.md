@@ -141,4 +141,5 @@ We'll look back on 6 years of this workshop, get a glimps into how big centers r
 | 4 | 10min | ECP Supercontainer Project | Andrew Younge | Sandia |
 |   | 45min | Live Panel / Q&A |||
 |   |       | - Trends and Projects to be aware of? |||
-|   |       | - What is next? Compute models? Why didn't k8s take over yet? |||
+|   |       | - What is next? Compute models?  |||
+|   |       | - Why didn't k8s take over yet? |||
