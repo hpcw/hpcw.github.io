@@ -16,7 +16,7 @@ Instead of having one long sitting, we are going to break the workshop into thre
 * **Firstly**, a hand full experts and thought leaders will provide their insights and expertise in a short and crisp 10min lightning talk. This will fill the first half (~45min) and will be back to back, without time to do Q&A.
 * **Second** - and this is really the important and insightful part - all speakers will be available for a panel and virtual Q&A.
 
-As tools we are going to **stream the video** (not 100% settled yet but most likely twich.tv or Youtube) and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A.<br>
+As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A.<br>
 **Plese do make sure that you add yourself to the slack channel.**
 
 ## Time Slots
