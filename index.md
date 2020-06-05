@@ -21,6 +21,7 @@ As tools we are going to **stream the video** (not 100% settled yet but most lik
 
 ## Time Slots
 
+### Stream
 **The workshop will be held as live streams on the following dates.**
 
 <table><tr>
@@ -46,36 +47,36 @@ The streamed videos are going to be released on Youtube at the day of the virtua
 **We are currently building out the agenda and refining the format!** 
 Please do come back often to check for new updates.
 
-#### Runtime 
+### Runtime
 **Scheduled for:** (6/16 - 5PM CEST)
 
-The first segment will start building from the ground up by introducing container runtimes and why HPC did not adopt standard runtimes. Afterwards the leading project are going to present the current state of the art and conclude by discussing the area with the community.
+The first segment will start building from the ground up by introducing container runtimes and why HPC did not adopt standard runtimes. Afterwards the leading project are going to present the current state of the art, the panelist will conclude the segment by discussing the area with the community.
 
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 	5min |	Introduction and Scope	| Christian Kniep	| AWS |
-| 2	| 10min	| Container Runtime Overview	| Andrew Young	| Sandia Labs |
-| 3	| 10min	| The podman runtime	| Valentin Rothberg |	RedHat |
-| 4	| 10min	| State of Singularity	| Greg Kurtzer | Ctrl+Cmd |
-| 5	| 10min	| State of SARUS	| Lucas Benedicic	| CSCS |
-| | 45min | 	Panel / Q&A	|||
+| 1 |  5min | Introduction and Scope | Christian Kniep | AWS |
+| 2 | 10min | Container Runtime Overview | Andrew Young | Sandia Labs |
+| 3 | 10min | The podman runtime | Valentin Rothberg | RedHat |
+| 4 | 10min | State of Singularity | Greg Kurtzer | Ctrl+Cmd |
+| 5 | 10min | State of SARUS | Lucas Benedicic | CSCS |
+| | 45min | Panel / Q&A |||
 
-#### Build 
+### Build
 **Scheduled for:** (6/16 - 7PM CEST)
 
 This segment will focus on the building of images as an artifact, how recepies look like and what the end-user might worry about when defining the artifact.
 
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min	| Introduction and Scope	| Christian Kniep	| AWS | 
-| 2	| 10min	| State of BuildKit	| TBA (still searching)	| |
-| 3	| 10min	| Buildah, a tool to build OCI images	| Carlos E Arango	| RedHat |
-| 4	| 10min	| State of Singularity Build	| Greg Kurzter	| Ctrl+Cmd |
-| 5	| 10min	| Build Tools (Spack/Easybuild/...)	| Kenneth Hoste	| Ghent University |
-| 6	| 10min	| End-user artifact to specify an image?	| TBA	| TBA |
-| | 45min	| Panel / Q&A |||
+| 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
+| 2 | 10min | State of BuildKit | TBA (still searching) | |
+| 3 | 10min | Buildah, a tool to build OCI images | Carlos E Arango | RedHat |
+| 4 | 10min | State of Singularity Build | Greg Kurzter | Ctrl+Cmd |
+| 5 | 10min | Build Tools (Spack/Easybuild/...) | Kenneth Hoste | Ghent University |
+| 6 | 10min | End-user artifact to specify an image? | TBA | TBA |
+| | 45min | Panel / Q&A |||
 
-#### Distribute 
+### Distribute
 
 **Scheduled for:** (6/17 - 5PM CEST)
 
@@ -83,16 +84,16 @@ Once an image is build it needs to be distributed - this segment will focus on h
 
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1	| 5min	| Introduction and Scope	| Christian Kniep	| AWS |
-| 2	| 10min	| OCI Image Spec	| Carlos E Arango	| RedHat |
-| 3	| 10min	| Singularity Image Format | Greg Kurtzer	| Ctrl+Cmd |
-| 4	| 10min	| Skopeo Distribution Tool	| Valentin Rothberg	| RedHat |
-| 5	| 10min	| Security when distributing images	| Brandon Lum	| IBM |
-| 6	| 10min	| Container Registries	| TBA	| TBA |
-| 7	| 10min	| Findability of Bioinformatic Container Images?	| Johannes Köster / Björn Grüning	| University of Düsseldorf / University of Freiburg |
-| | 45min	| Panel / Q&A	|||
+| 1 | 5min  | Introduction and Scope | Christian Kniep | AWS |
+| 2 | 10min | OCI Image Spec	| Carlos E Arango | RedHat |
+| 3 | 10min | Singularity Image Format | Greg Kurtzer	| Ctrl+Cmd |
+| 4 | 10min | Skopeo Distribution Tool	| Valentin Rothberg	| RedHat |
+| 5 | 10min | Security when distributing images	| Brandon Lum	| IBM |
+| 6 | 10min | Container Registries	| TBA	| TBA |
+| 7 | 10min | Findability of Bioinformatic Container Images?	| Johannes Köster / Björn Grüning	| University of Düsseldorf / University of Freiburg |
+|   | 45min | Panel / Q&A |||
 
-#### Orchestration/Scheduling 
+### Orchestration/Scheduling
 
 **Scheduled for:** (6/17 - 7PM CEST)
 
@@ -108,7 +109,7 @@ Starting with a simple scheduler like SLURM this segment will build up to more c
 | 6	| 10min	| Workflow Schedulers (e.g. Argo, Airflow)	| Bill Sparks	| HPE |
 | | 45min	| Panel / Q&A |||
 
-#### HPC Specific 
+### HPC Specific
 
 **Scheduled for:** (6/18 - 5PM CEST)
 
@@ -123,7 +124,7 @@ Approaching the meet on the bone we are going to discuss the particularities of 
 | 5	| 10min	| MPI / PMI Update	| Josh Hursey	| IBM |
 | | 45min	| Panel / Q&A |||
 
-#### Use-cases and Outlook
+### Use-cases and Outlook
 
 **Scheduled for:** (6/18 - 7PM CEST)
 
