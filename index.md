@@ -61,7 +61,7 @@ The first segment will start building from the ground up by introducing containe
 | 3 | 10min | The podman runtime | Valentin Rothberg | RedHat |
 | 4 | 10min | State of Singularity | Greg Kurtzer | Ctrl+Cmd |
 | 5 | 10min | State of SARUS | Lucas Benedicic | CSCS |
-| | 45min | Panel / Q&A |||
+| | 45min | Live Panel / Q&A |||
 
 ### Build
 
@@ -77,7 +77,7 @@ This segment will focus on the building of images as an artifact, how recepies l
 | 4 | 10min | State of Singularity Build | Greg Kurzter | Ctrl+Cmd |
 | 5 | 10min | Build Tools (Spack/Easybuild/...) | Kenneth Hoste | Ghent University |
 | 6 | 10min | End-user artifact to specify an image? | TBA | TBA |
-| | 45min | Panel / Q&A |||
+| | 45min | Live Panel / Q&A |||
 
 ### Distribute
 
@@ -94,7 +94,7 @@ Once an image is build it needs to be distributed - this segment will focus on h
 | 5 | 10min | Security when distributing images | Brandon Lum | IBM |
 | 6 | 10min | Container Registries | TBA | TBA |
 | 7 | 10min | Findability of Bioinformatic Container Images? | Johannes Köster / Björn Grüning | University of Düsseldorf / University of Freiburg |
-|   | 45min | Panel / Q&A |||
+|   | 45min | Live Panel / Q&A |||
 
 ### Orchestration/Scheduling
 
@@ -110,7 +110,7 @@ Starting with a simple scheduler like SLURM this segment will build up to more c
 | 4 | 10min | Kubernetes Extras (Operators, HPC projects) | TBA | TBA |
 | 5 | 10min | Portable workflow orchestration at scale with Nextflow | Paolo Di Tommaso | Seqera Labs |
 | 6 | 10min | Workflow Schedulers (e.g. Argo, Airflow) | Bill Sparks | HPE |
-|   | 45min | Panel / Q&A |||
+|   | 45min | Live Panel / Q&A |||
 
 ### HPC Specific
 
@@ -118,14 +118,14 @@ Starting with a simple scheduler like SLURM this segment will build up to more c
 
 Approaching the meet on the bone we are going to discuss the particularities of HPC. Device integration, POSIX file-systems, MPI(/PMI) and scale in general.
 
-| # | Duration | Type | Title                                   | Speaker             |    Company     |
-|:-:|:--------:||:---:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min | live | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 10min | replay | HPC Device Integration (kernel-/userland) | CJ Newburn | NVIDIA |
-| 3 | 10min | replay | How do container scale? (hpc systems vs cluster) | Saber Feki / Bill Sparks / Lucas Benedicic | KAUST / HPE / CSCS |
-| 4 | 10min | replay | High- and lowlights when moving HPC apps? | Saber Feki | KAUST |
-| 5 | 10min | replay | MPI / PMI Update | Josh Hursey | IBM |
-|   | 45min | live |Panel / Q&A |||
+| # | Duration |  Title                                   | Speaker             |    Company     |
+|:-:|:--------:|:-----------------------------------------|:--------------------|:--------------:|
+| 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
+| 2 | 10min | HPC Device Integration (kernel-/userland) | CJ Newburn | NVIDIA |
+| 3 | 10min | How do container scale? (hpc systems vs cluster) | Saber Feki / Bill Sparks / Lucas Benedicic | KAUST / HPE / CSCS |
+| 4 | 10min | High- and lowlights when moving HPC apps? | Saber Feki | KAUST |
+| 5 | 10min | MPI / PMI Update | Josh Hursey | IBM |
+|   | 45min | Live Panel / Q&A |||
 
 ### Use-cases and Outlook
 
@@ -139,6 +139,6 @@ We'll look back on 6 years of this workshop, get a glimps into how big centers r
 | 2 | 15min | 6y HPCW Containerization ReCap | Burak Yenier | TheUberCloud |
 | 3 | 15min | NERSC / CSCS Overview and Outlook | Shane Canon / Lucas Benedicic | NERSC / CSCS |
 | 4 | 10min | ECP Supercontainer Project | Andrew Younge | Sandia |
-| | 10min | Trends and Projects to be aware of? |||
-| | 10min | What is next? Compute models? Why didn't k8s take over yet? |||
-| | 45min | Panel / Q&A |||
+|   | 45min | Live Panel / Q&A |||
+|   |       | - Trends and Projects to be aware of? |||
+|   |       | - What is next? Compute models? Why didn't k8s take over yet? |||
