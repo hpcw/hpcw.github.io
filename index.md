@@ -32,12 +32,12 @@ As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` 
 
 | Segment | Date | CEST | ET | PT | Youtube Stream Link |
 |:-------:|:----:|:----:|:--:|:--:|:-----------:|
-| Runtime | 6/16 |  5PM | 11AM | 8AM | TBA |
-| Build | 6/16 |  7PM | 13AM | 10AM | TBA |
-| Distribute | 6/17 |  5PM | 11AM | 8AM | TBA |
-| Orchestrate/Schedule | 6/17 |  7PM | 13AM | 10AM | TBA |
-| HPC Specific | 6/18 |  5PM | 11AM | 8AM | TBA |
-| Use-cases / Outlook | 6/18 |  7PM | 13AM | 10AM | TBA |
+| Runtime | 6/16 |  5PM | 11AM | 8AM | [Runtime&Build](https://youtu.be/tO6DJbG1gK8) |
+| Build | 6/16 |  7PM | 13AM | 10AM | [Runtime&Build](https://youtu.be/tO6DJbG1gK8) |
+| Distribute | 6/17 |  5PM | 11AM | 8AM | [Distribute & Orchestrate](https://youtu.be/SF0x6RhxFeQ) |
+| Orchestrate/Schedule | 6/17 |  7PM | 13AM | 10AM | [Distribute & Orchestrate](https://youtu.be/SF0x6RhxFeQ) |
+| HPC Specific | 6/18 |  5PM | 11AM | 8AM | [HPC & Outlook](https://youtu.be/FyLooubNQww) |
+| Use-cases / Outlook | 6/18 |  7PM | 13AM | 10AM | [HPC & Outlook](https://youtu.be/FyLooubNQww) |
 
 ### On-Demand
 
@@ -143,3 +143,4 @@ We'll look back on 6 years of this workshop, get a glimps into how big centers r
 |   |       | - Trends and Projects to be aware of? |||
 |   |       | - What is next? Compute models?  |||
 |   |       | - Why didn't k8s take over yet? |||
+|   |       | - How can the HPC community schmooze the non-HPC? |||
