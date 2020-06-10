@@ -76,7 +76,8 @@ This segment will focus on the building of images as an artifact, how recepies l
 | 3 | 10min | Buildah, a tool to build OCI images | Carlos E Arango | RedHat |
 | 4 | 10min | State of Singularity Build | Greg Kurzter | Ctrl+Cmd |
 | 5 | 10min | Build Tools (Spack/Easybuild/...) | Kenneth Hoste | Ghent University |
-| 6 | 10min | End-user artifact to specify an image? | TBA | TBA |
+| 6 | 5min  | HPC Container Maker Update | CJ Newburn | NVIDIA |
+| 7 | 10min | End-user artifact to specify an image? | Johannes Köster / Björn Grüning | University of Düsseldorf / University of Freiburg |
 | | 45min | Live Panel / Q&A |||
 
 ### Distribute
