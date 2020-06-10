@@ -92,7 +92,7 @@ Once an image is build it needs to be distributed - this segment will focus on h
 | 3 | 10min | Singularity Image Format | Greg Kurtzer | Ctrl+Cmd |
 | 4 | 10min | Skopeo Distribution Tool | Valentin Rothberg | RedHat |
 | 5 | 10min | Security when distributing images | Brandon Lum | IBM |
-| 6 | 10min | Container Registries | TBA | TBA |
+| 6 | 10min | Container Registries | Phil Estes | IBM |
 | 7 | 10min | Findability of Bioinformatic Container Images? | Johannes Köster / Björn Grüning | University of Düsseldorf / University of Freiburg |
 |   | 45min | Live Panel / Q&A |||
 
