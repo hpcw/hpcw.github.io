@@ -72,7 +72,7 @@ This segment will focus on the building of images as an artifact, how recepies l
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
 | 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 10min | State of BuildKit | TBA (still searching) | |
+| 2 | 10min | State of BuildKit | Nicholas Dille | Haufe.Group |
 | 3 | 10min | Buildah, a tool to build OCI images | Carlos E Arango | RedHat |
 | 4 | 10min | State of Singularity Build | Greg Kurzter | Ctrl+Cmd |
 | 5 | 10min | Build Tools (Spack/Easybuild/...) | Kenneth Hoste | Ghent University |
