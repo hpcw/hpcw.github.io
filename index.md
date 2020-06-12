@@ -41,7 +41,8 @@ As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` 
 
 ### On-Demand
 
-The streamed videos are going to be released on Youtube at the day of the virtual workshop event (6/25).
+The streamed videos are going to be released on Youtube at the day of the virtual workshop event (6/25).<br>
+**Once released discussion can be held in the #hpcw20 channel referenced above.**
 
 ## Agenda
 
