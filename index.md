@@ -46,9 +46,6 @@ The streamed videos are going to be released on Youtube at the day of the virtua
 
 ## Agenda
 
-**We are currently building out the agenda and refining the format!**<br>
-Please do come back often to check for new updates.
-
 ### Runtime
 
 **Scheduled for:** (6/16 - 5PM CEST)
