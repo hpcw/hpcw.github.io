@@ -54,6 +54,8 @@ Please do come back often to check for new updates.
 
 The first segment will start building from the ground up by introducing container runtimes and why HPC did not adopt standard runtimes. Afterwards the leading project are going to present the current state of the art, the panelist will conclude the segment by discussing the area with the community.
 
+<iframe width="355" height="200" src="https://www.youtube.com/embed/Xoo2UqdZyl4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
 | 1 |  5min | Introduction and Scope | Christian Kniep | AWS |
@@ -68,6 +70,8 @@ The first segment will start building from the ground up by introducing containe
 **Scheduled for:** (6/16 - 7PM CEST)
 
 This segment will focus on the building of images as an artifact, how recepies look like and what the end-user might worry about when defining the artifact.
+
+<iframe width="355" height="200" src="https://www.youtube.com/embed/Br95E7l6oIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
@@ -86,6 +90,8 @@ This segment will focus on the building of images as an artifact, how recepies l
 
 Once an image is build it needs to be distributed - this segment will focus on how that can be done in a scalable and secure manner.
 
+<iframe width="355" height="200" src="https://www.youtube.com/embed/lpBGrNgwFpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
 | 1 | 5min  | Introduction and Scope | Christian Kniep | AWS |
@@ -103,6 +109,8 @@ Once an image is build it needs to be distributed - this segment will focus on h
 
 Starting with a simple scheduler like SLURM this segment will build up to more complex schedulers (K8s) and workflow managers (Nextflow, Argo, Airflow).
 
+<iframe width="355" height="200" src="https://www.youtube.com/embed/Jbn1_BEpxfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
 | 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
@@ -119,6 +127,8 @@ Starting with a simple scheduler like SLURM this segment will build up to more c
 
 Approaching the meet on the bone we are going to discuss the particularities of HPC. Device integration, POSIX file-systems, MPI(/PMI) and scale in general.
 
+<iframe width="355" height="200" src="https://www.youtube.com/embed/Wn402bGom4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:--------:|:-----------------------------------------|:--------------------|:--------------:|
 | 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
@@ -133,6 +143,8 @@ Approaching the meet on the bone we are going to discuss the particularities of 
 **Scheduled for:** (6/18 - 7PM CEST)
 
 We'll look back on 6 years of this workshop, get a glimps into how big centers run containers successfully and how HPC use-cases evolved.
+
+<iframe width="355" height="200" src="https://www.youtube.com/embed/DB-ZQsIiP0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
