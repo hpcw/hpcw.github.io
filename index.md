@@ -150,6 +150,7 @@ We'll look back on 6 years of this workshop, get a glimps into how big centers r
 | 2 | 15min | 6y HPCW Containerization ReCap | Burak Yenier | TheUberCloud |
 | 3 | 15min | NERSC / CSCS Overview and Outlook | Shane Canon / Lucas Benedicic | NERSC / CSCS |
 | 4 | 10min | ECP Supercontainer Project | Andrew Younge | Sandia |
+| 5 | 10min | Orchestration for the Edge | CJ Newburn | NVIDIA |
 |   | 45min | Live Panel / Q&A |||
 |   |       | - Trends and Projects to be aware of? |||
 |   |       | - What is next? Compute models?  |||
