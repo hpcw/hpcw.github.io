@@ -59,7 +59,7 @@ The first segment will start building from the ground up by introducing containe
 | 1 |  5min | Introduction and Scope | Christian Kniep | AWS |
 | 2 | 10min | Container Runtime Overview | Andrew Young | Sandia Labs |
 | 3 | 10min | The podman runtime | Valentin Rothberg | RedHat |
-| 4 | 10min | State of Singularity | Greg Kurtzer | Ctrl+Cmd |
+| 4 | 10min | State of Singularity | Ian Kaneshiro | CtrlCmd |
 | 5 | 10min | State of SARUS | Lucas Benedicic | CSCS |
 | | 45min | Live Panel / Q&A |||
 
@@ -76,7 +76,7 @@ This segment will focus on the building of images as an artifact, how recepies l
 | 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
 | 2 | 10min | State of BuildKit | Nicholas Dille | Haufe.Group |
 | 3 | 10min | Buildah, a tool to build OCI images | Carlos E Arango | RedHat |
-| 4 | 10min | State of Singularity Build | Greg Kurzter | Ctrl+Cmd |
+| 4 | 10min | State of Singularity Build | Greg Kurzter | CtrlCmd |
 | 5 | 10min | Build Tools (Spack/Easybuild/...) | Kenneth Hoste | Ghent University |
 | 6 | 5min  | HPC Container Maker Update | CJ Newburn | NVIDIA |
 | 7 | 10min | End-user artifact to specify an image? | Johannes Köster / Björn Grüning | University of Düsseldorf / University of Freiburg |
@@ -94,7 +94,7 @@ Once an image is build it needs to be distributed - this segment will focus on h
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
 | 1 | 5min  | Introduction and Scope | Christian Kniep | AWS |
 | 2 | 10min | OCI Image Spec | Carlos E Arango | RedHat |
-| 3 | 10min | Singularity Image Format | Greg Kurtzer | Ctrl+Cmd |
+| 3 | 10min | Singularity Image Format | Ian Kaneshiro | CtrlCmd |
 | 4 | 10min | Skopeo Distribution Tool | Valentin Rothberg | RedHat |
 | 5 | 10min | Security when distributing images | Brandon Lum | IBM |
 | 6 | 10min | Container Registries | Phil Estes | IBM |
