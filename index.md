@@ -132,7 +132,7 @@ Approaching the meet on the bone we are going to discuss the particularities of 
 | 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
 | 2 | 10min | HPC Device Integration (kernel-/userland) | CJ Newburn | NVIDIA |
 | 3 | 10min | How do container scale? (hpc systems vs cluster) | Saber Feki / Bill Sparks / Lucas Benedicic | KAUST / HPE / CSCS |
-| 4 | 10min | High- and lowlights when moving HPC apps? | Saber Feki | KAUST |
+| 4 | 10min | High- and lowlights when moving HPC apps? | Saber Feki, Saber Feki, Nagarajan Kathiresan, Mohsin Shaikh, Samuel Kortas, Amr Abdelazim | KAUST |
 | 5 | 10min | MPI / PMI Update | Josh Hursey | IBM |
 |   | 45min | Live Panel / Q&A |||
 
