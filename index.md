@@ -19,30 +19,21 @@ Instead of having one long sitting, we are going to break the workshop into thre
 As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A.<br>
 **Plese do make sure that you add yourself to the slack channel.**
 
-## Time Slots
-
-### Stream
-
-**The workshop will be held as live streams on the following dates.**
+## On-Demand / Stream
+**The workshop was streamed from 6/16 - 6/18 and is going to be available on-demand on 6/22**
 
 <table><tr>
     <td><img src="/pics/240px-Apple_Calendar_Icon.png"></td>
     <td>To block time in your calendar please import this <a href="/data/hpcw.ics">ics file</a></td>
 </tr></table>
 
+
+**We are going to have a **Final Panel and Q&A on 6/25 at 5PM (CEST).**
+
+
 | Segment | Date | CEST | ET | PT | Youtube Stream Link |
 |:-------:|:----:|:----:|:--:|:--:|:-----------:|
-| Runtime | 6/16 |  5PM | 11AM | 8AM | [Runtime&Build](https://youtu.be/tO6DJbG1gK8) |
-| Build | 6/16 |  7PM | 13AM | 10AM | [Runtime&Build](https://youtu.be/tO6DJbG1gK8) |
-| Distribute | 6/17 |  5PM | 11AM | 8AM | [Distribute & Orchestrate](https://youtu.be/SF0x6RhxFeQ) |
-| Orchestrate/Schedule | 6/17 |  7PM | 13AM | 10AM | [Distribute & Orchestrate](https://youtu.be/SF0x6RhxFeQ) |
-| HPC Specific | 6/18 |  5PM | 11AM | 8AM | [HPC & Outlook](https://youtu.be/FyLooubNQww) |
-| Use-cases / Outlook | 6/18 |  7PM | 13AM | 10AM | [HPC & Outlook](https://youtu.be/FyLooubNQww) |
-
-### On-Demand
-
-The streamed videos are going to be released on Youtube at the day of the virtual workshop event (6/25) for on-demand consumption.<br>
-**Once released, discussion can be held in the #hpcw20 channel referenced above.**
+| Final Panel, Q&A, ReCap | 6/25 |  5PM | 11AM | 8AM | [Final Panel](https://youtu.be/hZ-3KLX8Ss8) |
 
 ## Agenda
 
