@@ -9,14 +9,14 @@ The workshop series assembles thought leaders to provide the audience with the '
 
 ### Virtual Workshop 2020
 
-As ISC moved to a virtual event, we will go virtual as well. At the time of the workshop we are going to release videos on youtube.
+As ISC moved to a virtual event, we will go virtual as well. At the time of the workshop we are going to release videos on YouTube.
 
 Instead of having one long sitting, we are going to break the workshop into three sessions that will all have similar structure:
 
 * **Firstly**, a hand full experts and thought leaders will provide their insights and expertise in a short and crisp 10min lightning talk. This will fill the first half (~45min) and will be back to back, without time to do Q&A.
 * **Second** - and this is really the important and insightful part - all speakers will be available for a panel and virtual Q&A.
 
-As tools we are going to **stream the video** (not 100% settled yet but most likely twich.tv or Youtube) and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A. 
+As tools we are going to **stream the video** (not 100% settled yet but most likely twich.tv or YouTube) and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A. 
 **Plese do make sure that you add yourself to the slack channel.**
 
 ## Time Slots
@@ -54,7 +54,7 @@ The first segment will start building from the ground up by introducing containe
 #### Build 
 **Scheduled for:** (6/16 - 7PM CEST)
 
-This segment will focus on the building of images as an artifact, how recepies look like and what the end-user might worry about when defining the artifact.
+This segment will focus on the building of images as an artifact, how recipes look like and what the end-user might worry about when defining the artifact.
 
 | # | Duration |  Title                                   | Speaker             |    Company     |
 |:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
