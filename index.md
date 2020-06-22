@@ -7,9 +7,8 @@ layout: home
 
 # Virtual HPCW 2020
 
-The workshop series assembles thought leaders to provide the audience with the 'state of containers' and the latest trends.
-
-As ISC moved to a virtual event, we will go virtual as well. At the time of the workshop we are going to release the videos on youtube.
+The workshop series assembled thought leaders to provide the audience with the 'state of containers' and the latest trends.<br>
+As ISC moved to a virtual event, we went virtual as well pre-recording a stream of information. At the time of the workshop we elease the videos on youtube.
 
 Instead of having one long sitting, we are going to break the workshop into three sessions that will all have similar structure:
 
@@ -28,7 +27,7 @@ As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` 
 </tr></table>
 
 
-**We are going to have a **Final Panel and Q&A on 6/25 at 5PM (CEST).**
+**We are going to have a Final Panel and Q&A on 6/25 at 5PM (CEST).**
 
 
 | Segment | Date | CEST | ET | PT | Youtube Stream Link |
@@ -39,111 +38,108 @@ As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` 
 
 ### Runtime
 
-**Scheduled for:** (6/16 - 5PM CEST)
-
-The first segment will start building from the ground up by introducing container runtimes and why HPC did not adopt standard runtimes. Afterwards the leading project are going to present the current state of the art, the panelist will conclude the segment by discussing the area with the community.
+The first segment starts building from the ground up by introducing container runtimes and why HPC did not adopt standard runtimes. Afterwards the leading project presented the current state of the art, the panelist  concluded the segment by discussing the area with the community.
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/Xoo2UqdZyl4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 |  5min | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 10min | Container Runtime Overview | Andrew Young | Sandia Labs |
-| 3 | 10min | The podman runtime | Valentin Rothberg | RedHat |
-| 4 | 10min | State of Singularity | Ian Kaneshiro | CtrlCmd |
-| 5 | 10min | State of SARUS | Lucas Benedicic | CSCS |
-| | 45min | Live Panel / Q&A |||
+| # | Duration |  Title                                   | Speaker             |    Company     | Links |
+|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|:-----:|
+| 1 |  5min | Introduction and Scope | Christian Kniep | AWS | [Youtube](https://www.youtube.com/watch?v=Xoo2UqdZyl4&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=2) / Slides |
+| 2 | 10min | Container Runtime Overview | Andrew Young | Sandia Labs | [Youtube](https://www.youtube.com/watch?v=E1skDOWpetw&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=3) / Slides |
+| 3 | 10min | The podman runtime | Valentin Rothberg | RedHat | [Youtube](https://www.youtube.com/watch?v=pva-VvkfS8o&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=4) / Slides |
+| 4 | 10min | State of Singularity | Ian Kaneshiro | CtrlCmd | [Youtube](https://www.youtube.com/watch?v=1BYppMkLHRU&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=5) / Slides |
+| 5 | 10min | State of SARUS | Lucas Benedicic | CSCS | [Youtube](https://www.youtube.com/watch?v=zEuuJJ61I7w&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=6) / Slides |
+| | 45min | Live Panel / Q&A ||| [Youtube](https://www.youtube.com/watch?v=OtNhXYvGUtE&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=7) |
 
 ### Build
 
-**Scheduled for:** (6/16 - 7PM CEST)
-
-This segment will focus on the building of images as an artifact, how recepies look like and what the end-user might worry about when defining the artifact.
+This segment focuses on building of images as an artifact, how recepies look like and what the end-user might worry about when defining the artifact.
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/Br95E7l6oIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 10min | State of BuildKit | Nicholas Dille | Haufe.Group |
-| 3 | 10min | Buildah, a tool to build OCI images | Carlos E Arango | RedHat |
-| 4 | 10min | State of Singularity Build | Greg Kurzter | CtrlCmd |
-| 5 | 10min | Build Tools (Spack/Easybuild/...) | Kenneth Hoste | Ghent University |
-| 6 | 5min  | HPC Container Maker Update | CJ Newburn | NVIDIA |
-| 7 | 10min | End-user artifact to specify an image? | Johannes Köster / Björn Grüning | University of Düsseldorf / University of Freiburg |
-| | 45min | Live Panel / Q&A |||
+| # | Duration |  Title                                   | Speaker             |    Company     | Links |
+|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|:-----:|
+| 1 | 5min | Introduction and Scope | Christian Kniep | AWS | [Youtube](https://www.youtube.com/watch?v=Br95E7l6oIo&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=8) |
+| 2 | 10min | State of BuildKit | Nicholas Dille | Haufe.Group | [Youtube](https://www.youtube.com/watch?v=eAM_E8yyKZw&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=9) / Slides |
+| 3 | 10min | Buildah, a tool to build OCI images | Carlos E Arango | RedHat | [Youtube](https://www.youtube.com/watch?v=Etq8TfkYn48&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=10) / Slides |
+| 4 | 10min | State of Singularity Build | Greg Kurzter | CtrlCmd | [Youtube](https://www.youtube.com/watch?v=XxdcgoGtSyM&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=11) / Slides |
+| 5 | 10min | Build Tools (Spack/Easybuild/...) | Kenneth Hoste | Ghent University | [Youtube](https://www.youtube.com/watch?v=9-3GMzl8_Ew&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=12) / Slides |
+| 6 | 5min  | HPC Container Maker Update | CJ Newburn | NVIDIA | [Youtube](https://www.youtube.com/watch?v=2c78zKD_WCo&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=13) / Slides |
+| 7 | 10min | End-user artifact to specify an image? | Johannes Köster | University of Düsseldorf | [Youtube](https://www.youtube.com/watch?v=vrovzy9G59I&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=14) / Slides |
+| | 45min | Live Panel / Q&A |||  [Youtube](https://www.youtube.com/watch?v=qMpcv_maFm8&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=15) |
 
 ### Distribute
 
 **Scheduled for:** (6/17 - 5PM CEST)
 
-Once an image is build it needs to be distributed - this segment will focus on how that can be done in a scalable and secure manner.
+Once an image is build it needs to be distributed - this segment focuses on how that can be done in a scalable and secure manner.
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/lpBGrNgwFpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min  | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 10min | OCI Image Spec | Carlos E Arango | RedHat |
-| 3 | 10min | Singularity Image Format | Ian Kaneshiro | CtrlCmd |
-| 4 | 10min | Skopeo Distribution Tool | Valentin Rothberg | RedHat |
-| 5 | 10min | Security when distributing images | Brandon Lum | IBM |
-| 6 | 10min | Container Registries | Phil Estes | IBM |
-| 7 | 10min | Findability of Bioinformatic Container Images? | Johannes Köster / Björn Grüning | University of Düsseldorf / University of Freiburg |
-|   | 45min | Live Panel / Q&A |||
+| # | Duration |  Title                                   | Speaker             |    Company     | Links |
+|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|:-----:|
+| 1 | 5min  | Introduction and Scope | Christian Kniep | AWS | [Youtube](https://www.youtube.com/watch?v=lpBGrNgwFpo&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=16) |
+| 2 | 10min | OCI Image Spec | Carlos E Arango | RedHat | [Youtube](https://www.youtube.com/watch?v=IDn2YCngnFc&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=17) / Slides |
+| 3 | 10min | Singularity Image Format | Ian Kaneshiro | CtrlCmd | [Youtube](https://www.youtube.com/watch?v=x4G6ww-ckO8&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=18) / Slides |
+| 4 | 10min | Skopeo Distribution Tool | Valentin Rothberg | RedHat | [Youtube](https://www.youtube.com/watch?v=Y25O5AzLkeI&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=19) / Slides |
+| 5 | 10min | Trust when distributing images | Brandon Lum | IBM | [Youtube](https://www.youtube.com/watch?v=eaoT4716XnY&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=20) / Slides |
+| 6 | 10min | Container Registries | Phil Estes | IBM | [Youtube](https://www.youtube.com/watch?v=u2CDyZTR4Tg&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=21) / Slides |
+| 7 | 5min | Findability of Bioinformatic Container Images | Johannes Köster | University of Düsseldorf | [Youtube](https://www.youtube.com/watch?v=ZqikY3rg4t0&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=22) / Slides |
+| 8 | 5min | Biocontainers and Conda | Björn Grüning | University of Freiburg | [Youtube](https://www.youtube.com/watch?v=diB48I3zpjc&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=23) / Slides |
+|   | 45min | Live Panel / Q&A ||| [Youtube](https://www.youtube.com/watch?v=UBAOzxIZ31s&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=24) |
 
 ### Orchestration/Scheduling
 
 **Scheduled for:** (6/17 - 7PM CEST)
 
-Starting with a simple scheduler like SLURM this segment will build up to more complex schedulers (K8s) and workflow managers (Nextflow, Argo, Airflow).
+Starting with a simple scheduler like SLURM this segment builds up to more complex schedulers (K8s) and workflow managers (Nextflow, Argo, Airflow).
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/Jbn1_BEpxfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 10min | Simple Container Orchestration | Holger Gantikow | ATOS |
-| 3 | 10min | Orchestration with Kubernetes | Carlos E. Arango | RedHat |
-| 4 | 10min | Kubernetes Extras (Operators, HPC projects) | TBA | TBA |
-| 5 | 10min | Portable workflow orchestration at scale with Nextflow | Paolo Di Tommaso | Seqera Labs |
-| 6 | 10min | Workflow Schedulers (e.g. Argo, Airflow) | Bill Sparks | HPE |
-|   | 45min | Live Panel / Q&A |||
+| # | Duration |  Title                                   | Speaker             |    Company     | Links |
+|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|:-----:|
+| 1 | 5min | Introduction and Scope | Christian Kniep | AWS | [Youtube](https://www.youtube.com/watch?v=Jbn1_BEpxfo&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=25) / Slides |
+| 2 | 10min | Simple Container Orchestration | Holger Gantikow | ATOS | [Youtube](https://www.youtube.com/watch?v=JZovCtunsso&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=26) / Slides |
+| 3 | 10min | Orchestration/HPC with Kubernetes | Carlos E. Arango | RedHat | [Youtube](https://www.youtube.com/watch?v=MJ0nkb05Awk&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=27) / Slides |
+| 5 | 10min | Portable workflow orchestration at scale with Nextflow | Paolo Di Tommaso | Seqera Labs | [Youtube](https://www.youtube.com/watch?v=37AGaauevlQ&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=28) / Slides |
+| 6 | 10min | Workflow Schedulers (e.g. Argo, Airflow) | Bill Sparks | HPE | [Youtube](https://www.youtube.com/watch?v=jChfV_P4bNw&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=29) / Slides |
+|   | 45min | Live Panel / Q&A ||| [Youtube](https://www.youtube.com/watch?v=7ECdQkXJ6Nk&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=30) |
 
 ### HPC Specific
 
 **Scheduled for:** (6/18 - 5PM CEST)
 
-Approaching the meet on the bone we are going to discuss the particularities of HPC. Device integration, POSIX file-systems, MPI(/PMI) and scale in general.
+Approaching the meet on the bone we discussed the particularities of HPC. Device integration, POSIX file-systems, MPI(/PMI) and scale in general.
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/Wn402bGom4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:--------:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 10min | HPC Device Integration (kernel-/userland) | CJ Newburn | NVIDIA |
-| 3 | 10min | How do container scale? (hpc systems vs cluster) | Saber Feki / Bill Sparks / Lucas Benedicic | KAUST / HPE / CSCS |
-| 4 | 10min | High- and lowlights when moving HPC apps? | Saber Feki, Saber Feki, Nagarajan Kathiresan, Mohsin Shaikh, Samuel Kortas, Amr Abdelazim | KAUST |
-| 5 | 10min | MPI / PMI Update | Josh Hursey | IBM |
-|   | 45min | Live Panel / Q&A |||
+| # | Duration |  Title                                   | Speaker             |    Company     | Links |
+|:-:|:--------:|:-----------------------------------------|:--------------------|:--------------:|:-----:|
+| 1 | 5min | Introduction and Scope | Christian Kniep | AWS | [Youtube](https://www.youtube.com/watch?v=Wn402bGom4Y&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=31) / Slides |
+| 2 | 10min | HPC Device Integration (kernel-/userland) | CJ Newburn | NVIDIA | [Youtube](https://www.youtube.com/watch?v=4MG9d3TE9nc&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=32) / Slides |
+| 3 | 10min | How do container scale? (hpc systems vs cluster) | Bill Sparks | HPE | [Youtube](https://www.youtube.com/watch?v=IS-6DsaN7Zg&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=33) / Slides |
+| 4 | 10min | High- and lowlights when moving HPC apps? | Saber Feki, Saber Feki, Nagarajan Kathiresan, Mohsin Shaikh, Samuel Kortas, Amr Abdelazim | KAUST | [Youtube](https://www.youtube.com/watch?v=uLW0rKUYbyQ&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=34) / Slides |
+| 5 | 10min | MPI / PMI Update | Josh Hursey | IBM | [Youtube](https://www.youtube.com/watch?v=z3JqIVjctjA&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=36) / Slides |
+|   | 45min | Live Panel / Q&A ||| [Youtube](https://www.youtube.com/watch?v=e-eqdM_2_yY&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=37) |
 
 ### Use-cases and Outlook
 
 **Scheduled for:** (6/18 - 7PM CEST)
 
-We'll look back on 6 years of this workshop, get a glimps into how big centers run containers successfully and how HPC use-cases evolved.
+We looked back on 6 years of this workshop, got a glimps into how big centers run containers successfully and how HPC use-cases evolved.
 
 <iframe width="355" height="200" src="https://www.youtube.com/embed/DB-ZQsIiP0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min | Introduction and Scope | Christian Kniep | AWS |
-| 2 | 15min | 6y HPCW Containerization ReCap | Burak Yenier | TheUberCloud |
-| 3 | 15min | NERSC / CSCS Overview and Outlook | Shane Canon / Lucas Benedicic | NERSC / CSCS |
-| 4 | 10min | ECP Supercontainer Project | Andrew Younge | Sandia |
-| 5 | 10min | Orchestration for the Edge | CJ Newburn | NVIDIA |
-|   | 45min | Live Panel / Q&A |||
-|   |       | - Trends and Projects to be aware of? |||
-|   |       | - What is next? Compute models?  |||
-|   |       | - Why didn't k8s take over yet? |||
-|   |       | - How can the HPC community schmooze the non-HPC? |||
+| # | Duration |  Title                                   | Speaker             |    Company     | Links |
+|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|:-----:|
+| 1 | 5min | Introduction and Scope | Christian Kniep | AWS | [Youtube](https://www.youtube.com/watch?v=DB-ZQsIiP0g&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=38) |
+| 2 | 15min | 6y HPCW Containerization ReCap | Burak Yenier | TheUberCloud | [Youtube](https://www.youtube.com/watch?v=f9jF2TnGyG4&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=39) / Slides |
+| 3 | 10min | NERSC Overview and Outlook | Shane Canon | NERSC | [Youtube](https://www.youtube.com/watch?v=0mMlwVx1l7U&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=40) / Slides |
+| 4 | 10min | NERSC Overview and Outlook | Lucas Benedicic | CSCS | [Youtube](https://www.youtube.com/watch?v=bwGLO7_eDr8&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=41) / Slides |
+| 4 | 10min | Orchestration for the Edge | CJ Newburn | NVIDIA | [Youtube](https://www.youtube.com/watch?v=KXZzfcWbR4I&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=42) / Slides |
+| 5 | 10min | ECP Supercontainer Project | Andrew Younge | Sandia | [Youtube](https://www.youtube.com/watch?v=lO9_1MtyM6Q&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=43) / Slides |
+|   | 45min | Live Panel / Q&A ||| [Youtube](https://www.youtube.com/watch?v=VSJ0Tv817L4&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=44) |
+|   |       | - Trends and Projects to be aware of? ||||
+|   |       | - What is next? Compute models?  ||||
+|   |       | - Why didn't k8s take over yet? ||||
+|   |       | - How can the HPC community schmooze the non-HPC? ||||
