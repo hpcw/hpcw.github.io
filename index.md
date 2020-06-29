@@ -18,25 +18,12 @@ Instead of having one long sitting, we are going to break the workshop into thre
 As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A.<br>
 **Plese do make sure that you add yourself to the slack channel.**
 
-## On-Demand / Stream
-**The workshop was streamed from 6/16 - 6/18 and is going to be available on-demand on 6/22**
-
-<table><tr>
-    <td><img src="/pics/240px-Apple_Calendar_Icon.png"></td>
-    <td>To block time in your calendar please import this <a href="/data/hpcw.ics">ics file</a></td>
-</tr></table>
-
-
-**We are going to have a Final Panel and Q&A on 6/25 at 5PM (CEST).**
-
-
-| Segment | Date | CEST | ET | PT | Youtube Stream Link |
-|:-------:|:----:|:----:|:--:|:--:|:-----------:|
-| Final Panel, Q&A, ReCap | 6/25 |  5PM | 11AM | 8AM | [Final Panel](https://youtu.be/hZ-3KLX8Ss8) |
-
 ## Agenda
 
 ### Runtime
+
+**Recorded:** (6/16 - 5PM CEST)
+
 
 The first segment starts building from the ground up by introducing container runtimes and why HPC did not adopt standard runtimes. Afterwards the leading project presented the current state of the art, the panelist  concluded the segment by discussing the area with the community.
 
@@ -52,6 +39,9 @@ The first segment starts building from the ground up by introducing container ru
 | | 45min | Live Panel / Q&A ||| [Youtube](https://www.youtube.com/watch?v=OtNhXYvGUtE&list=PLfE3_wJGw9KTx8t6byn5bCWpk4L5bRORY&index=7) |
 
 ### Build
+
+**Recorded:** (6/16 - 7PM CEST)
+
 
 This segment focuses on building of images as an artifact, how recepies look like and what the end-user might worry about when defining the artifact.
 
@@ -70,7 +60,7 @@ This segment focuses on building of images as an artifact, how recepies look lik
 
 ### Distribute
 
-**Scheduled for:** (6/17 - 5PM CEST)
+**Recorded:** (6/17 - 5PM CEST)
 
 Once an image is build it needs to be distributed - this segment focuses on how that can be done in a scalable and secure manner.
 
@@ -90,7 +80,7 @@ Once an image is build it needs to be distributed - this segment focuses on how 
 
 ### Orchestration/Scheduling
 
-**Scheduled for:** (6/17 - 7PM CEST)
+**Recorded:** (6/17 - 7PM CEST)
 
 Starting with a simple scheduler like SLURM this segment builds up to more complex schedulers (K8s) and workflow managers (Nextflow, Argo, Airflow).
 
@@ -107,7 +97,7 @@ Starting with a simple scheduler like SLURM this segment builds up to more compl
 
 ### HPC Specific
 
-**Scheduled for:** (6/18 - 5PM CEST)
+**Recorded:** (6/18 - 5PM CEST)
 
 Approaching the meet on the bone we discussed the particularities of HPC. Device integration, POSIX file-systems, MPI(/PMI) and scale in general.
 
@@ -124,7 +114,7 @@ Approaching the meet on the bone we discussed the particularities of HPC. Device
 
 ### Use-cases and Outlook
 
-**Scheduled for:** (6/18 - 7PM CEST)
+**Recorded:** (6/18 - 7PM CEST)
 
 We looked back on 6 years of this workshop, got a glimps into how big centers run containers successfully and how HPC use-cases evolved.
 
@@ -143,3 +133,12 @@ We looked back on 6 years of this workshop, got a glimps into how big centers ru
 |   |       | - What is next? Compute models?  ||||
 |   |       | - Why didn't k8s take over yet? ||||
 |   |       | - How can the HPC community schmooze the non-HPC? ||||
+
+
+### Workshop ReCap
+
+**Recorded:** (6/25 - 5PM CEST)
+
+| # | Duration |  Title                                | Links |
+|:-:|:--------:|:--------------------------------------|:-----:|
+|   |   45min  | ReCap Panel 1w after stream           | [Youtube](https://youtu.be/6EvW1AW3WXE) |
