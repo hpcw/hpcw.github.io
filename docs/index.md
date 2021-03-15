@@ -5,127 +5,55 @@
 layout: home
 ---
 
-The workshop series assembles thought leaders to provide the audience with the 'state of containers' and the latest trends.
+# HPCW @ISC2021
 
-### Virtual Workshop 2020
+The workshop 'High Performance Container Workshop' will take place virtually on 02-July-2021 from 2PM to 6PM CET.
+It assembles thought leaders to provide the 'state of containers' and user-stories to showcase what can be done and where the bounderies are.<br>
 
-As ISC moved to a virtual event, we will go virtual as well. At the time of the workshop we are going to release videos on YouTube.
+## Event Setup
 
-Instead of having one long sitting, we are going to break the workshop into three sessions that will all have similar structure:
+Due to COVID19 and the virtual nature of the event, the workshop will last only 4 hours. Thus we will focus on user stories and have a panel of specialists discuss each use-case from different layers in the ecosystem.
 
-* **Firstly**, a hand full experts and thought leaders will provide their insights and expertise in a short and crisp 10min lightning talk. This will fill the first half (~45min) and will be back to back, without time to do Q&A.
-* **Second** - and this is really the important and insightful part - all speakers will be available for a panel and virtual Q&A.
+## Call for Participation
+We are looking for use-cases and user-stories to dicuss during our workshop. Please fill out this [form](https://docs.google.com/forms/d/1nadxRUbXitpvjURWqmoSMayiEw9joI_4gpt9vST9JAI): 
 
-As tools we are going to **stream the video** (not 100% settled yet but most likely twich.tv or YouTube) and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A. 
-**Plese do make sure that you add yourself to the slack channel.**
+* **We are searching for problems, no need to provide the answer along with it**. The goal of the workshop is to provide insights on what works and what does not work for containers in HPC. Please also submit your use-case even though it might turn out that we end up without a solution in 2021. It will help us to discuss where we need to improve or define what is not (yet) possible.
+* **We are a friendly group**. Please do not hesitate to reach out because you are worried to be hammered by the experts. We will make sure that the level of interactive engagement suits you, potentially have someone be a proxy standin.
+* **Edge cases are welcome**. You have a problem with a unique challenge; get in touch!
 
-## Time Slots
+## Tentative Agenda
 
-**The workshop will be held as live streams on the following dates.**
+The agenda is going to evolve and be adjusted. THe following represents the current state of our planning.
 
-| Segment | Date | CEST | ET | PT |
-|:-------:|:----:|:----:|:--:|:--:|
-| Runtime | 6/16 |  5PM | 11AM | 8AM |
-| Build | 6/16 |  7PM | 13AM | 10AM |
-| Distribute | 6/17 |  5PM | 11AM | 8AM |
-| Orchestrate/Schedule | 6/17 |  7PM | 13AM | 10AM |
-| HPC Specific | 6/18 |  5PM | 11AM | 8AM |
-| Use-cases / Outlook | 6/18 |  7PM | 13AM | 10AM |
-
-## Agenda
-
-**We are currently building out the agenda and refining the format!** 
-Please do come back often to check for new updates.
-
-#### Runtime 
-**Scheduled for:** (6/16 - 5PM CEST)
-
-The first segment will start building from the ground up by introducing container runtimes and why HPC did not adopt standard runtimes. Afterwards the leading project are going to present the current state of the art and conclude by discussing the area with the community.
-
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 	5min |	Introduction and Scope	| Christian Kniep	| AWS |
-| 2	| 10min	| Container Runtime Overview	| Andrew Young	| Sandia Labs |
-| 3	| 10min	| The podman runtime	| Valentin Rothberg |	RedHat |
-| 4	| 10min	| State of Singularity	| Greg Kurtzer | Ctrl+Cmd |
-| 5	| 10min	| State of SARUS	| Lucas Benedicic	| CSCS |
-| | 45min | 	Panel / Q&A	|||
-
-#### Build 
-**Scheduled for:** (6/16 - 7PM CEST)
-
-This segment will focus on the building of images as an artifact, how recipes look like and what the end-user might worry about when defining the artifact.
-
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1 | 5min	| Introduction and Scope	| Christian Kniep	| AWS | 
-| 2	| 10min	| State of BuildKit	| TBA (still searching)	| |
-| 3	| 10min	| Buildah, a tool to build OCI images	| Carlos E Arango	| RedHat |
-| 4	| 10min	| State of Singularity Build	| Greg Kurzter	| Ctrl+Cmd |
-| 5	| 10min	| Build Tools (Spack/Easybuild/...)	| Kenneth Hoste	| Ghent University |
-| 6	| 10min	| End-user artifact to specify an image?	| TBA	| TBA |
-| | 45min	| Panel / Q&A |||
-
-#### Distribute 
-
-**Scheduled for:** (6/17 - 5PM CEST)
-
-Once an image is build it needs to be distributed - this segment will focus on how that can be done in a scalable and secure manner.
-
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1	| 5min	| Introduction and Scope	| Christian Kniep	| AWS |
-| 2	| 10min	| OCI Image Spec	| Carlos E Arango	| RedHat |
-| 3	| 10min	| Singularity Image Format | Greg Kurtzer	| Ctrl+Cmd |
-| 4	| 10min	| Skopeo Distribution Tool	| Valentin Rothberg	| RedHat |
-| 5	| 10min	| Security when distributing images	| Brandon Lum	| IBM |
-| 6	| 10min	| Container Registries	| TBA	| TBA |
-| 7	| 10min	| Findability of Bioinformatic Container Images?	| Johannes Köster / Björn Grüning	| University of Düsseldorf / University of Freiburg |
-| | 45min	| Panel / Q&A	|||
-
-#### Orchestration/Scheduling 
-
-**Scheduled for:** (6/17 - 7PM CEST)
-
-Starting with a simple scheduler like SLURM this segment will build up to more complex schedulers (K8s) and workflow managers (Nextflow, Argo, Airflow).
-
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1	| 5min	| Introduction and Scope	| Christian Kniep	| AWS |
-| 2	| 10min	| Simple Container Orchestration	| Holger Gantikow	| ATOS |
-| 3	| 10min	| Orchestration with Kubernetes	| Carlos E. Arango	| RedHat |
-| 4	| 10min	| Kubernetes Extras (Operators, HPC projects)	| TBA	| TBA |
-| 5	| 10min	| Portable workflow orchestration at scale with Nextflow	| Paolo Di Tommaso	| Seqera Labs |
-| 6	| 10min	| Workflow Schedulers (e.g. Argo, Airflow)	| Bill Sparks	| HPE |
-| | 45min	| Panel / Q&A |||
-
-#### HPC Specific 
-
-**Scheduled for:** (6/18 - 5PM CEST)
-
-Approaching the meet on the bone we are going to discuss the particularities of HPC. Device integration, POSIX file-systems, MPI(/PMI) and scale in general.
-
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1	| 5min	| Introduction and Scope	| Christian Kniep	| AWS |
-| 2	| 10min	| HPC Device Integration (kernel-/userland)	| CJ Newburn	| NVIDIA |
-| 3	| 10min	| How do container scale? (hpc systems vs cluster)	| Saber Feki / Bill Sparks / Lucas Benedicic	| KAUST / HPE / CSCS |
-| 4	| 10min	| High- and lowlights when moving HPC apps?	| Saber Feki	| KAUST |
-| 5	| 10min	| MPI / PMI Update	| Josh Hursey	| IBM |
-| | 45min	| Panel / Q&A |||
-
-#### Use-cases and Outlook
-
-**Scheduled for:** (6/18 - 7PM CEST)
-
-We'll look back on 6 years of this workshop, get a glimps into how big centers run containers successfully and how HPC use-cases evolved.
-
-| # | Duration |  Title                                   | Speaker             |    Company     |
-|:-:|:-----:|:-----------------------------------------|:--------------------|:--------------:|
-| 1	| 5min	| Introduction and Scope	| Christian Kniep	| AWS |
-| 2	| 15min	| 6y HPCW Containerization ReCap	| Burak Yenier	| TheUberCloud |
-| 3	| 15min	| NERSC / CSCS Overview and Outlook	| Shane Canon / Lucas Benedicic	| NERSC / CSCS |
-| 4	| 10min	| ECP Supercontainer Project	| Andrew Younge	| Sandia |
-| | 10min	| Trends and Projects to be aware of?	|||	
-| | 10min	| What is next? Compute models? Why didn't k8s take over yet? |||
-| | 45min	| Panel / Q&A |||
+| #   | CEST   | Type |  Title                                   | Status |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
+| 1   | 2:00PM | Live | Workshop Introduction and Scope          |        |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
+| 2   | 2:05PM | Rec  | Use-Cases Introduction                   |        |
+|                   ||| #1 Poweruser                             | init   |
+|                   ||| #2 SysAdmin                              | init   |
+|                   ||| #3 End-user                              | search |
+|                   ||| #4 EDU User                              | init   |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
+| 3   | 2:30PM | Live | RUNTIME Segment Intro                    |        |
+|             || Rec  | Project Updates                          |        |
+|                   ||| #1 Podman                                | init   |
+|                   ||| #2 Sarus                                 | init   |
+|                   ||| #3 Singularity                           | init   |
+|                   ||| #3 Charliecloud                          | init   |
+|             || Live | Use-case Panel                           |        |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
+| 4   | 3:30PM | Live | Build&Distribute Segment Intro           |        |
+|             || Rec  | Project Updates                          |        |
+|                   ||| #1 Spack                                 |        |
+|                   ||| #2 EasyBuild                             |        |
+|                   ||| #3 BioContainer                          |        |
+|                   ||| #3 OpenHPC                               |        |
+|     | 3:45PM | Live | Use-case Panel                           |        |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
+| 5   | 4:30PM | Live | Scheduler Segment Intro                  |        |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
+| 6   | 5:30PM | Live | Outlook Segment Intro                    |        |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
+| 7   | 6:00PM | Live | End                                      |        |
+|:---:|:------:|:----:|: ---------------------------------------:|:------:|
