@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: High Performance Container Workshop
-email: your-email@example.com
+email: hpcw@qnib.org
 description: >- # this means to ignore newlines until "baseurl:"
   The High Performance Container Workshop (HPCW) is usually held alongside ISC in Germany and provides an comprehensive overview of the current state of containers in the HPC community.
 baseurl: "" # the subpath of your site, e.g. /blog
