@@ -7,18 +7,11 @@ layout: home
 
 The **H**igh **P**erformance **C**ontainer **W**orkshop series assembles thought leaders to provide the 'state of containers' and the latest trends.
 
-Previouse workshops:
-
-- [ISC2020: 6th Annual High Performance Container Workshop](http://qnib.org/2020/06/17/isc2020-hpcw/)
-- [ISC2019: 5th Annual High Performance Container Workshop](http://qnib.org/2019/06/20/isc2019-hpcw/)
-- [ISC2018 Workshop: High Performance Container Workshop](http://qnib.org/2018/06/28/isc2018-workshop/)
-- [ISC2017 Workshop: Linux Containers to Optimise IT Infrastructure for HPC & BigData](http://qnib.org/2017/06/22/isc2017-workshop)
-- [ISC2016 Workshop: Linux Containers to Optimise IT Infrastructure for HPC & BigData](http://qnib.org/2016/06/23/isc2106-workshop)
-- [ISC2015: Docker: User-Friendly Application & Service Containers for HPC Environments.](http://qnib.org/2015/07/16/isc2105-workshop)
-
 # Virtual HPCW 2021
 
-As ISC2021 moved to a virtual event, we went virtual as well pre-recording a stream of information. At the time of the workshop we elease the videos on youtube.
+As ISC2021 moved to a virtual event, we went virtual as well with a mix of pre-recorded short videos and a live session.
+
+**The workshop is taking place on June 2nd**.
 
 ### Communication
 To get in touch (even before the workshop) please use the `#hpcw` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication.
@@ -27,6 +20,34 @@ To get in touch (even before the workshop) please use the `#hpcw` channel within
 
 Last year we dove deep into each aspect (runtime, build, distribute, schedule, HPC specifics, outlook) in three sittings.
 We highly recommend going through the youtube recordings. They can be found in last years post: [qnib.org/2020/06/17/isc2020-hpcw](https://qnib.org/2020/06/17/isc2020-hpcw/).
+
+### 2021
+
+This year, we will have a 4h panel session which revolves around use-cases and personas. The goal is to provide guidance on how to approach containers today and plan for the future.
+
+We will still touch on the following aspects (like last year), but with the goal to tie this back to the personas and discuss how to tackle those problems best.
+
+- Runtimes/Engine
+- Build/Distribution
+- Scheduling/Environment
+- Outlook
+
+#### Personas/Use-cases
+
+The personas do not necessarily have all the problems solved and are encouraged to be overly stubborn and challenge the suggestions of the experts.
+
+- **Application Lead**: This persona represents an expert in the field with an traditional HPC application (like GROMACS), who **a)** supports a group at his site to run the workload most effective and **b)** iterates on the code itself.
+- **EDU environment**: Use-case where containers might be used to support a teaching environment. Removing as many hurdles for the students to get to a topic (like learning how to program MPI).
+- **HPC center SysOps**: System adminstrator at a large HPC site who needs to support a lot of researchers and workloads. How can containers help keep workloads portable and performant.
+
+## Previous workshops:
+
+- [ISC2020: 6th Annual High Performance Container Workshop](http://qnib.org/2020/06/17/isc2020-hpcw/)
+- [ISC2019: 5th Annual High Performance Container Workshop](http://qnib.org/2019/06/20/isc2019-hpcw/)
+- [ISC2018 Workshop: High Performance Container Workshop](http://qnib.org/2018/06/28/isc2018-workshop/)
+- [ISC2017 Workshop: Linux Containers to Optimise IT Infrastructure for HPC & BigData](http://qnib.org/2017/06/22/isc2017-workshop)
+- [ISC2016 Workshop: Linux Containers to Optimise IT Infrastructure for HPC & BigData](http://qnib.org/2016/06/23/isc2106-workshop)
+- [ISC2015: Docker: User-Friendly Application & Service Containers for HPC Environments.](http://qnib.org/2015/07/16/isc2105-workshop)
 
 <!--
 ## Agenda
