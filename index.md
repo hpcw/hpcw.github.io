@@ -5,19 +5,21 @@
 layout: home
 ---
 
-# Virtual HPCW 2020
+The **H**igh **P**erformance **C**ontainer **W**orkshop series assembles thought leaders to provide the 'state of containers' and the latest trends.
 
-The workshop series assembled thought leaders to provide the audience with the 'state of containers' and the latest trends.<br>
-As ISC moved to a virtual event, we went virtual as well pre-recording a stream of information. At the time of the workshop we elease the videos on youtube.
+# Virtual HPCW 2021
 
-Instead of having one long sitting, we are going to break the workshop into three sessions that will all have similar structure:
+As ISC2021 moved to a virtual event, we went virtual as well pre-recording a stream of information. At the time of the workshop we elease the videos on youtube.
 
-* **Firstly**, a hand full experts and thought leaders will provide their insights and expertise in a short and crisp 10min lightning talk. This will fill the first half (~45min) and will be back to back, without time to do Q&A.
-* **Second** - and this is really the important and insightful part - all speakers will be available for a panel and virtual Q&A.
+### Communication
+To get in touch (even before the workshop) please use the `#hpcw` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication.
 
-As tools we are going to **stream the video on YouTube**  and use the `#hpcw20` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication   (live-chat, polls and collect questions) with the panelist and Q&A.<br>
-**Plese do make sure that you add yourself to the slack channel.**
+## Agenda
 
+Last year we dove deep into each aspect (runtime, build, distribute, schedule, HPC specifics, outlook) in three sittings.
+We highly recommend going through the youtube recordings. They can be found in last years post: [qnib.org/2020/06/17/isc2020-hpcw](https://qnib.org/2020/06/17/isc2020-hpcw/).
+
+<!--
 ## Agenda
 
 ### Runtime
@@ -142,3 +144,4 @@ We looked back on 6 years of this workshop, got a glimps into how big centers ru
 | # | Duration |  Title                                | Links |
 |:-:|:--------:|:--------------------------------------|:-----:|
 |   |   45min  | ReCap Panel 1w after stream           | [Youtube](https://youtu.be/6EvW1AW3WXE) |
+-->
