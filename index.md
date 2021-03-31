@@ -7,6 +7,15 @@ layout: home
 
 The **H**igh **P**erformance **C**ontainer **W**orkshop series assembles thought leaders to provide the 'state of containers' and the latest trends.
 
+Previouse workshops:
+
+- [ISC2020: 6th Annual High Performance Container Workshop](http://qnib.org/2020/06/17/isc2020-hpcw/)
+- [ISC2019: 5th Annual High Performance Container Workshop](http://qnib.org/2019/06/20/isc2019-hpcw/)
+- [ISC2018 Workshop: High Performance Container Workshop](http://qnib.org/2018/06/28/isc2018-workshop/)
+- [ISC2017 Workshop: Linux Containers to Optimise IT Infrastructure for HPC & BigData](http://qnib.org/2017/06/22/isc2017-workshop)
+- [ISC2016 Workshop: Linux Containers to Optimise IT Infrastructure for HPC & BigData](http://qnib.org/2016/06/23/isc2106-workshop)
+- [ISC2015: Docker: User-Friendly Application & Service Containers for HPC Environments.](http://qnib.org/2015/07/16/isc2105-workshop)
+
 # Virtual HPCW 2021
 
 As ISC2021 moved to a virtual event, we went virtual as well pre-recording a stream of information. At the time of the workshop we elease the videos on youtube.
