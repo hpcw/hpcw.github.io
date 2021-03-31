@@ -13,6 +13,8 @@ As ISC2021 moved to a virtual event, we went virtual as well with a mix of pre-r
 
 **The workshop is taking place on June 2nd**.
 
+**Call for participation**: If you would like to take part and represent your use-case/persona - please get in touch! And don't worry, it's ok to only have problems to solve and no answers (yet) - we will try our best to guide you.
+
 ### Communication
 To get in touch (even before the workshop) please use the `#hpcw` channel within [hpc-containers.slack.com](https://hpc-containers.slack.com) ([Invitation Link if you are not registered already](https://join.slack.com/t/hpc-containers/shared_invite/zt-ak9q6jw7-UZgpv7IJua5jCtJ_db_yAQ)) for communication.
 
@@ -39,6 +41,7 @@ The personas do not necessarily have all the problems solved and are encouraged 
 - **Application Lead**: This persona represents an expert in the field with an traditional HPC application (like GROMACS), who **a)** supports a group at his site to run the workload most effective and **b)** iterates on the code itself.
 - **EDU environment**: Use-case where containers might be used to support a teaching environment. Removing as many hurdles for the students to get to a topic (like learning how to program MPI).
 - **HPC center SysOps**: System adminstrator at a large HPC site who needs to support a lot of researchers and workloads. How can containers help keep workloads portable and performant.
+- **...**: Please get in touch (@CQnib on Twitter, #hpcw channel in hpc-containers.slack.com)] if you have an interesting use-case/persona for us to talk about.
 
 ## Previous workshops:
 
