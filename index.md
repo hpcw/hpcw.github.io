@@ -74,7 +74,7 @@ We will still touch on the following aspects (like last year), but with the goal
 |   |        | #4 Bootstrap HPC          | Bootstrap HPC          | Umesh Upadhyaya  | HPCNepal |
 |   |        | #5 Complex Software Stack | Complex Software Stack | Abdulrahman Azab | University of Oslo |
 | 4 | 3:30PM | **Scheduler Segment**  | | |
-|   |        | Scheduler Overview     | TBA | |
+|   |        | Scheduler Overview     | Eduardo Arango | |
 |   |        | #1 Application Poweruser  | Carsten Kutzner | MPI Göttingen |
 |   |        | #2 Education Use-case     | Michael Kuhn     | Otto von Guericke University Magdeburg |
 |   |        | #3 HPC site SysOps        | David Brayford   | Leibniz Supercomputing Centre (LRZ) |
