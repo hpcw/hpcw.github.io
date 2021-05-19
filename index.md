@@ -5,7 +5,7 @@
 layout: home
 ---
 
-**The workshop is taking place on June 2nd**.
+**The workshop is taking place on July 2nd**.
 
 
 The **H**igh **P**erformance **C**ontainer **W**orkshop series assembles thought leaders to provide the 'state of containers' and the latest trends.
