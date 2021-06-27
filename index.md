@@ -59,7 +59,7 @@ We will still touch on the following aspects (like last year), but with the goal
 |   |        | #4 Bootstrap HPC          | Bootstrap HPC          | Umesh Upadhyaya  | HPCNepal |
 |   |        | #5 Complex Software Stack | Complex Software Stack | Abdulrahman Azab | University of Oslo |
 | 2 | 2:30PM | **Runtime Segment**       | | |
-|   |        | Runtime Overview          | TBA | |
+|   |        | Runtime Overview          | Christian Kniep | AWS |
 |   |        | #1 Application Poweruser  | Carsten Kutzner | MPI Göttingen |
 |   |        | #2 Education Use-case     | Michael Kuhn     | Otto von Guericke University Magdeburg |
 |   |        | #3 HPC site SysOps        | David Brayford   | Leibniz Supercomputing Centre (LRZ) |
@@ -74,20 +74,23 @@ We will still touch on the following aspects (like last year), but with the goal
 |   |        | #4 Bootstrap HPC          | Bootstrap HPC          | Umesh Upadhyaya  | HPCNepal |
 |   |        | #5 Complex Software Stack | Complex Software Stack | Abdulrahman Azab | University of Oslo |
 | 4 | 3:30PM | **Scheduler Segment**  | | |
-|   |        | Scheduler Overview     | Eduardo Arango | |
+|   |        | Scheduler Overview     | Eduardo Arango | RedHat |
 |   |        | #1 Application Poweruser  | Carsten Kutzner | MPI Göttingen |
 |   |        | #2 Education Use-case     | Michael Kuhn     | Otto von Guericke University Magdeburg |
 |   |        | #3 HPC site SysOps        | David Brayford   | Leibniz Supercomputing Centre (LRZ) |
 |   |        | #4 Bootstrap HPC          | Bootstrap HPC          | Umesh Upadhyaya  | HPCNepal |
 |   |        | #5 Complex Software Stack | Complex Software Stack | Abdulrahman Azab | University of Oslo |
 | 4 | 4:00PM | **HPC Specific Segment**  | | |
-|   |        | HPC Specifc Topics Discussion | TBA | |
+|   |        | HPC Specifc Topics Discussion | Christian Kniep | AWS |
+|   |        | Singularity Registry (HPC) | Vanessa Sochat | LLNL |
 |   |        | #1 Application Poweruser  | Carsten Kutzner | MPI Göttingen |
 |   |        | #2 Education Use-case     | Michael Kuhn     | Otto von Guericke University Magdeburg |
 |   |        | #3 HPC site SysOps        | David Brayford   | Leibniz Supercomputing Centre (LRZ) |
 |   |        | #4 Bootstrap HPC          | Bootstrap HPC          | Umesh Upadhyaya  | HPCNepal |
 |   |        | #5 Complex Software Stack | Complex Software Stack | Abdulrahman Azab | University of Oslo |
 | 6 | 4:30PM | **Use-case ReCap Segment**  | | |
+|   |        | ReCap Introduction        | Christian Kniep | AWS | 
+|   |        | Input Lighting Talks      | | | 
 |   |        | #1 Application Poweruser  | Carsten Kutzner | MPI Göttingen |
 |   |        | #2 Education Use-case     | Michael Kuhn     | Otto von Guericke University Magdeburg |
 |   |        | #3 HPC site SysOps        | David Brayford   | Leibniz Supercomputing Centre (LRZ) |
